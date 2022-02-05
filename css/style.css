@@ -1,0 +1,37 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.wrapper{min-height: 100%; overflow: hidden;}
+
+.block1{width: 810px; height: 120px; margin:190px 0 0 345px;}
+
+.pict{width: 810px; height: 360px; margin: 92px 0 0 345px;}
+
+.block2{width:810px; height: 90px; margin: 60px 0 0 345px;}
+
+.block3{width:810px; height: 182px; margin: 24px 0 0 345px;}
+
+.block4{width:810px; height: 120px; margin: 48px 0 0 345px;}
+
+.block5{width:810px; height: 52px; margin: 48px 0 0 345px;}
+
+.block6{width:600px; height: 116px; margin: 24px 0 0 345px;}
+
+.block7{width:810px; height: 104px; margin: 24px 0 0 345px;}
+
+
+.block_a{width:752px; height: 120px; margin: 0 0 0 58px;}
+
+.block_b{width:600px; height: 26px; margin: 0 0 4px 0;}
+
+.str{width:568px; height: 26px; margin: 0 0 0 auto;}
+
+
+.text46{font-family: "lato", sans-serif; font-size: 46px;color: #1e212c; font-weight: 900; line-height: 1.3;}
+
+.text20{font-family: "lato", sans-serif; font-size: 20px;color: #1e212c; font-weight: 700; line-height: 1.5;}
+
+.text16{font-family: "lato", sans-serif; font-size: 16px;color: #424551; font-weight: 400; line-height: 1.6;}
+
+
